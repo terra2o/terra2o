@@ -20,20 +20,12 @@ Game Developer, occasionally develops useful desktop apps and tools for my own w
 
 ---
 
-### GitHub Stats
-
 <img src="https://github-readme-stats.vercel.app/api?username=terra2o&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terra2o&layout=compact&theme=gruvbox&hide_border=true" height="165"/>
 
----
-
-### Streak
 
 <img src="https://streak-stats.demolab.com?user=terra2o&theme=gruvbox&hide_border=true" />
 
----
-
-### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=terra2o&color=d79921&style=flat-square&label=Profile+Views)
 
