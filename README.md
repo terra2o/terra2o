@@ -1,9 +1,4 @@
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=D79921&background=28282800&center=true&vCenter=true&width=600&lines=Hey+there%2C+I%27m+terra2o;Game+Developer)
-
----
-
 ### About Me
 
 Game Developer, occasionally develops useful desktop apps and tools for my own workflow.
